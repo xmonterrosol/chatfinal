@@ -1,0 +1,151 @@
+
+Cual es el nombre cientifico del perro|Canis lupus familiaris
+Cual es el nombre cientifico del gato domestico|Felis catus
+A que orden pertenece el perro|Carnivora
+A que familia pertenece el gato|Felidae
+Cual es el nombre cientifico del conejo domestico|Oryctolagus cuniculus
+A que clase pertenecen los animales domesticos como perros y gatos|Mammalia
+Que animal domestico pertenece al genero Gallus|El gallo o la gallina
+Cual es el nombre cientifico de la vaca domestica|Bos taurus
+Cual es el nombre cientifico de la cabra domestica|Capra aegagrus hircus
+A que familia pertenece el caballo|Equidae
+Cual es el nombre cientifico del caballo|Equus ferus caballus
+Cual es el nombre cientifico de la oveja|Ovis aries
+Que nombre cientifico recibe el cerdo domestico|Sus scrofa domesticus
+A que clase pertenece la gallina|Aves
+A que orden pertenece el conejo|Lagomorpha
+A que familia pertenece el perro|Canidae
+A que subespecie pertenece el perro|Canis lupus familiaris
+Cual es el genero del gato domestico|Felis
+Cual es la especie del gato domestico|Felis catus
+Que nombre cientifico tiene el pato domestico comun|Anas platyrhynchos domesticus
+Cual es el nombre cientifico del burro|Equus africanus asinus
+Cual es la clase del cerdo|Mammalia
+A que orden pertenece la cabra|Artiodactyla
+A que familia pertenece el cerdo|Suidae
+A que clase pertenece el conejo|Mammalia
+Cual es el nombre cientifico del pavo domestico|Meleagris gallopavo
+A que orden pertenece el pato|Anseriformes
+A que familia pertenece la gallina|Phasianidae
+A que clase pertenece el burro|Mammalia
+Cual es el orden del caballo|Perissodactyla
+Cual es la familia del burro|Equidae
+Cual es el genero del perro domestico|Canis
+Cual es el orden del gato domestico|Carnivora
+Cual es la clase de la gallina|Aves
+Cual es el nombre cientifico del ganso domestico|Anser anser domesticus
+A que familia pertenece el pato|Anatidae
+Cual es el genero del caballo domestico|Equus
+A que familia pertenece el pavo|Phasianidae
+Cual es la clase del pavo|Aves
+A que orden pertenece el ganso domestico|Anseriformes
+Cual es la clase de la oveja|Mammalia
+Cual es el genero de la vaca|Bos
+A que clase pertenece la cabra|Mammalia
+Cual es la especie del burro|Equus africanus asinus
+A que orden pertenece la vaca|Artiodactyla
+A que clase pertenece el pato|Aves
+Cual es la familia del conejo|Leporidae
+Cual es la familia del gato|Felidae
+Cual es la especie de la cabra domestica|Capra aegagrus hircus
+Cual es el genero del cerdo domestico|Sus
+Cual es la especie del caballo|Equus ferus caballus
+Cual es la especie del cerdo domestico|Sus scrofa domesticus
+Cual es el genero del conejo domestico|Oryctolagus
+Cual es la especie del conejo domestico|Oryctolagus cuniculus
+Cual es la especie del pato domestico|Anas platyrhynchos domesticus
+Cual es el genero del gato|Felis
+A que orden pertenece la oveja|Artiodactyla
+A que familia pertenece la oveja|Bovidae
+Cual es el orden del pavo|Galliformes
+Cual es la familia de la vaca|Bovidae
+Los perros son carnivoros, herbivoros u omnivoros|Omnivoros
+Los gatos son carnivoros obligados|Si
+Los caballos comen carne|No, son herbivoros
+Los conejos son herbivoros|Si
+Las vacas son animales rumiantes|Si
+Los cerdos pueden comer vegetales y carne|Si, son omnivoros
+Las gallinas tienen plumas|Si
+Los perros tienen plumas|No
+Los gatos ponen huevos|No, son viviparos
+Las gallinas ponen huevos|Si
+Los patos son oviparos|Si
+Los caballos son viviparos|Si
+Las ovejas ponen huevos|No
+Los conejos son oviparos o viviparos|Viviparos
+El burro es un animal domestico|Si
+El gato es un mamifero|Si
+El pato es un ave|Si
+Las gallinas vuelan grandes distancias|No
+Los perros tienen pelo o plumas|Pelo
+El cerdo tiene pezuñas|Si
+Las cabras pueden producir leche|Si
+Los gatos son animales solitarios por naturaleza|Si
+Los perros pueden vivir en manada|Si
+El caballo es un mamifero o un ave|Mamifero
+Las vacas producen leche|Si
+Los patos nadan|Si
+Los conejos cavan madrigueras|Si
+Las gallinas necesitan un gallo para poner huevos|No, solo para fertilizarlos
+El perro es un animal territorial|Si
+El gato puede ronronear|Si
+Los caballos pueden dormir de pie|Si
+Los cerdos se revuelcan en el barro para refrescarse|Si
+Las ovejas tienen lana|Si
+Los gatos cazan por instinto aunque esten domesticados|Si
+Las vacas tienen cuernos|Si, aunque a veces se les quitan
+Los burros rebuznan|Si
+El perro puede oler mejor que el humano|Si
+Los gatos tienen vision nocturna|Si
+Los patos pueden volar|Si, aunque los domesticos no muy bien
+El conejo puede reproducirse rapidamente|Si
+Las cabras pueden trepar y saltar bien|Si
+Las gallinas son aves de corral|Si
+Los cerdos tienen buen sentido del olfato|Si
+Los caballos se alimentan de heno y pasto|Si
+El perro es el mejor amigo del hombre|Culturalmente, si
+Las ovejas viven en rebanos|Si
+El gato es un animal domestico comun en casas|Si
+Los conejos pueden vivir en jaulas amplias|Si
+Los patos tienen pico ancho|Si
+Las gallinas duermen en gallineros|Si
+Los caballos pueden correr a gran velocidad|Si
+Los burros son fuertes para cargar peso|Si
+Las cabras pueden producir carne, leche y piel|Si
+Los perros pueden ser entrenados facilmente|Si
+Los gatos entienden su nombre aunque no siempre respondan|Si
+Los conejos mudan su pelaje|Si
+Las vacas necesitan pasto y agua constantemente|Si
+Los patos pueden vivir en estanques y lagos|Si
+Las ovejas pueden ser esquiladas para obtener lana|Si
+El burro y el caballo pueden cruzarse|Si, su cria se llama mula
+Los perros necesitan ejercicio diario|Si
+Los gatos usan su lengua para asearse|Si
+Los conejos comen zanahorias como parte de su dieta|Si, pero en moderacion
+Los caballos necesitan herraduras para proteger sus cascos|Si
+Las gallinas pueden incubar sus huevos|Si
+Los patos emiten sonidos llamados graznidos|Si
+Los cerdos pueden aprender trucos simples|Si
+Las vacas mastican durante horas|Si, por su digestion rumiante
+Los gatos marcan su territorio con orina|Si
+Los perros pueden aprender ordenes basicas como “sentado”|Si
+Las ovejas tienen una excelente memoria visual|Si
+Los burros pueden vivir muchos anos|Si, hasta 30 o mas
+Los caballos pueden comunicarse con movimientos del cuerpo|Si
+Las cabras pueden tener cuernos tanto machos como hembras|Si
+Los patos tienen patas palmeadas|Si
+Las gallinas pueden vivir varios anos|Si, entre 5 y 10 anos en promedio
+Los cerdos pueden reconocer su nombre|Si
+Los gatos usan las unas para trepar y defenderse|Si
+Los perros pueden detectar enfermedades humanas|Si, algunos son entrenados para ello
+Los conejos pueden convivir con humanos|Si, como mascotas
+Las vacas viven en establos o potreros|Si
+Los caballos son animales sociales|Si
+Los burros pueden resistir el calor mejor que los caballos|Si
+Las cabras pueden vivir en climas montanosos|Si
+Los patos pueden dormir flotando en el agua|Si
+Los conejos necesitan una dieta rica en fibra|Si
+Los gatos usan sus bigotes para orientarse|Si
+Los perros pueden convivir con ninos|Si
+Las ovejas pueden sufrir golpes de calor|Si
+Los caballos pueden tener diferentes razas|Si
